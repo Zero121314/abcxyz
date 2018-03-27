@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1521639479 source:c:\users\administrator\desktop\game_dua_xe\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1521679815 c:\users\administrator\desktop\game_dua_xe\colordisplay.h
+	<windows.h>
+	<vector>
+
+1443331591 source:c:\users\administrator\desktop\game_dua_xe\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1443331617 c:\users\administrator\desktop\game_dua_xe\console.h
+	<windows.h>
+
+1522131930 source:c:\users\administrator\desktop\game_dua_xe\draw.cpp
+	"ColorDisplay.h"
+	<ctime>
+	<stdlib.h>
+	<iostream>
+	"draw.h"
+
+1521885324 c:\users\administrator\desktop\game_dua_xe\draw.h
+	"ColorDisplay.h"
+
+1522131908 source:c:\users\administrator\desktop\game_dua_xe\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	<fstream>
+	<math.h>
+	"ColorDisplay.h"
+	"console.h"
+	"draw.h"
+
